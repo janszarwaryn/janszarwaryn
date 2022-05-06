@@ -4,7 +4,11 @@ Hi 👋 My name is Jan Szarwaryn
 Front-End Developer
 -------------------
 
-Self-taught web developer based in Wrocław specializing in front-end technologies. A hardworking and avid learner who started developing websites in 2019, working for companies with important eCommerce sites, like Unit4 ; as well as fast growing startups, like Yax | Ratingcaptain where I had the chance to work in projects for clients like Smake, Inspirion, Drop. My core skills are HTML, CSS, and JavaScript all the way to modern frameworks like Vue and React, working under Agile/Scrum development environments. I'm a team player, used to work under pressure, putting the company goals first. I'm proactive, flexible and perfectionist, always looking for new ways to improve the software development processes.
+Self-taught web developer based in Wrocław specializing in front-end technologies. A hardworking and avid learner who started developing websites in 2019, working for companies with important eCommerce sites, like Unit4 ; as well as fast growing startups, like Yax | Ratingcaptain where I had the chance to work in projects for clients like Smake, Inspirion, Drop.
+
+My core skills are HTML, CSS, and JavaScript all the way to modern frameworks like Vue and React, working under Agile/Scrum development environments. 
+
+I'm a team player, used to work under pressure, putting the company goals first. I'm proactive, flexible and perfectionist, always looking for new ways to improve the software development processes.
 
 * 🌍  I'm based in Wroclaw
 * 🖥️  See my portfolio at [Jspace.pl](http://jspace.pl)
