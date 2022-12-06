@@ -12,7 +12,7 @@ I'm a team player, used to work under pressure, putting the company goals first.
 
 * 🌍  I'm based in Wroclaw
 * 🖥️  See my portfolio at [Jspace.pl](http://jspace.pl)
-* ✉️  You can contact me at [janek.szarwaryn@gmail.com](mailto:janek.szarwaryn@gmail.com)
+* ✉️  You can contact me at [office@jspace.pl](mailto:office@jspace.pl)
 * 🧠  I'm learning Vanillla JS, and Vue
 * ⚡  Fan of Astronomy :3
 
