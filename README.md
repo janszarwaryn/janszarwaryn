@@ -3,7 +3,7 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red)  -->
 
-## 🧰 Toolbox
+## Jan Szarwaryn
 <div>
 <!--  <kbd> -->
 <a href="https://www.javascript.com/">
@@ -30,9 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   43 hrs 46 mins  ██████████████████████▒░░   89.30 %
-JavaScript   4 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Other        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Vue          43 hrs 46 mins  ██████████████████████▒░░   89.30 %
+Typescript    4 hrs 27 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+JavaScript          31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
@@ -48,21 +48,3 @@ Other        31 mins         ▒░░░░░░░░░░░░░░░░
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50px">
 
-
-
-
-
-<!--
-**danfry1/danfry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
