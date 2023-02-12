@@ -1,49 +1,68 @@
+ <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> -->
+<!-- , I'm Daniel!   -->
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red)  -->
+
+## 🧰 Toolbox
+<div>
+<!--  <kbd> -->
+<a href="https://www.javascript.com/">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Logo" width="70" height="70"/></a> 
+<!--   </kbd> -->
+ <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript Logo" width="70" height="70"/></a> 
+  <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" width="70" height="70"/>  </a>
+ <a href="https://svelte.dev/">
+  <img src="https://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4_400x400.png" alt="Svelte Logo" width="70" height="70"/>
+ </a>
+  <a href="https://www.mongodb.com/">  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="MongoDB Logo" width="70" height="70"/> </a>
+ <a href="https://www.prisma.io/">   <img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" alt="Prisma Logo" width="70" height="70"/></a>
+  <a href="https://nodejs.dev/">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Logo" width="70" height="70"/> </a>
+  <a href="https://www.postgresql.org/">   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgres Logo" width="70" height="70"/></a>
+  <a href="https://graphql.org/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL Logo" width="70" height="70"/> </a>
+ <a href="https://redux.js.org/">   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Logo" width="70" height="70"/></a>
+  <a href="https://elixir-lang.org/">   <img src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4" alt="Elixir Logo" width="70" height="70"/></a>
+</div>
+
+---
+
+## 🔧 What I've been working with this week  
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   43 hrs 46 mins  ██████████████████████▒░░   89.30 %
+JavaScript   4 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Other        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+```
+
+<!--END_SECTION:waka-->
 
 
-Front-End Developer
--------------------
-
-Self-taught web developer based in Wrocław specializing in front-end technologies. A hardworking and avid learner who started developing websites in 2019, working for companies with important eCommerce sites, like Unit4 ; as well as fast growing startups, like Yax | Ratingcaptain where I had the chance to work in projects for clients like Smake, Inspirion, Drop.
-
-My core skills are HTML, CSS, and JavaScript all the way to modern frameworks like Vue and React, working under Agile/Scrum development environments. 
-
-I'm a team player, used to work under pressure, putting the company goals first. I'm proactive, flexible and perfectionist, always looking for new ways to improve the software development processes.
-
-* 🌍  I'm based in Wroclaw
-* 🖥️  See my portfolio at [Jspace.pl](http://jspace.pl)
-* ✉️  You can contact me at [office@jspace.pl](mailto:office@jspace.pl)
-* 🧠  I'm learning Vanillla JS, and Vue
-* ⚡  Fan of Astronomy :3
-
-<a href="https://www.github.com/janszarwaryn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/janszarwaryn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+---
 
 
-### Socials
+<!-- ![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1&count_private=true&show_icons=true&hide=stars,issues&include_all_commits) -->
 
-<p align="left"> <a href="https://www.github.com/janszarwaryn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/johnny0n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/janszarwaryn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{danfry1}/count.svg) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=danfry1)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50px">
+
+
+
+
+
+<!--
+**danfry1/danfry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
