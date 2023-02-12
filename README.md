@@ -1,5 +1,4 @@
-Hi 👋 My name is Jan Szarwaryn
-==============================
+
 
 Front-End Developer
 -------------------
