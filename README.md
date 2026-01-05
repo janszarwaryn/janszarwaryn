@@ -1,4 +1,3 @@
-```markdown
 ## Jan Szarwaryn
 
 <div>
@@ -73,4 +72,3 @@ JavaScript      3 hrs 12 mins  ██░░░░░░░░░░░░░░�
 ---
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50px">
-```
