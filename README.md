@@ -1,6 +1,6 @@
 # Jan Szarwaryn
 
-> Senior Fullstack Developer · Wrocław, Poland · 9+ years of commercial experience
+> Senior Frontend face, FullStack / AI LLM Developer · Wrocław, Poland · 10+ years of commercial experience
 
 Specializing in **frontend** (React, Vue, Angular, Next.js, Nuxt) with strong **fullstack** capabilities (Node.js, Python/Django, PostgreSQL, AWS). Focused on accessibility, performance, and shipping production-grade web applications.
 
