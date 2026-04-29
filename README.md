@@ -89,11 +89,4 @@ JavaScript      3 hrs 12 mins  ██░░░░░░░░░░░░░░�
 
 ---
 
-## 📈 GitHub Stats
-
-![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janszarwaryn&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janszarwaryn&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50px">
